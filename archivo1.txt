@@ -1,0 +1,3 @@
+Hola, archivo de prueba
+Probando en archivo1
+.txt
